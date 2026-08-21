@@ -55,7 +55,7 @@ Kontrollü laboratuvar ortamında sahte MAC adresleriyle DHCP DORA sürecini man
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omartthr&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=omartthr&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="left">
