@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=220&section=header&text=Omar%20Taher&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi%20%7C%20Full-Stack%20%26%20AI%20Destekli%20Uygulamalar&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Omar%20Taher&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Laravel+%2B+PostgreSQL+ile+backend+geli%C5%9Ftiriyorum;Flutter+%2F+React+Native+ile+mobil+uygulamalar+yaz%C4%B1yorum;Vue.js+%2B+Next.js+ile+modern+aray%C3%BCzler+kuruyorum;Yapay+zeka+destekli+projeler+%C3%BCretiyorum" alt="Typing SVG" />
