@@ -21,7 +21,7 @@
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,dart,react,flutter,vuejs,nextjs,html,css,laravel,postgres,kali,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,dart,react,flutter,vuejs,nextjs,html,css,laravel,postgres,kali&theme=light" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3" />
