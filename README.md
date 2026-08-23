@@ -18,56 +18,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3" />
 
-## 🚀 Öne Çıkan Projelerim
-
-<img align="right" width="260" src="https://raw.githubusercontent.com/ChenChiuyi/Coding_gif/main/coding.gif" />
-
-**🐑 [KurbanLink](https://github.com/omartthr/KurbanLink)** — *TÜBİTAK 2209-A Araştırma Projesi*
-Kurbanlık hayvan alım-satım süreçlerini dijitalleştiren, yapay zeka destekli web platformu. Frontend geliştirme, kişiselleştirilmiş öneri sistemi, gelişmiş arama-filtreleme ve kurban ortaklığı modüllerinde aktif rol aldım.
-
-**⚽ ALO HalıSaha**
-iOS, Android ve Web'i kapsayan cross-platform halı saha rezervasyon ve maç organizasyon uygulaması. Firebase kimlik doğrulama, rol tabanlı erişim, grup mesajlaşma ve tesis değerlendirme özelliklerini geliştirdim, web tarafını yayına aldım.
-🏆 **YAZGİT — YAZGİG'26 yarışmasında ikincilik ödülü**
-
-**🩺 Tabeebi+** — *Geliştirme aşamasında*
-Hastalar, doktorlar ve klinik yöneticilerini tek platformda buluşturan yapay zeka destekli monorepo sağlık ekosistemi. Sanctum kimlik doğrulama + OTP ile Laravel 11 & PostgreSQL backend API; çoklu dil/RTL destekli Flutter mobil uygulama; Vue 3 + TypeScript doktor paneli; Next.js 15 admin paneli.
-
-**🔐 Raspberry Pi ile DHCP Starvation Saldırısı Simülasyonu**
-Kontrollü laboratuvar ortamında sahte MAC adresleriyle DHCP DORA sürecini manipüle eden DoS senaryosu. Scapy ile düşük seviyeli paket üretimi ve ThreadPoolExecutor ile 10 paralel thread'li simülasyon geliştirdim; Wi-Fi donanımsal kısıtlamalarını analiz ederek geliştirmeye devam ediyorum.
-
-<br clear="right"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3" />
-
 ## 🛠️ Teknolojiler
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,php,dart,react,flutter,vuejs,nextjs,html,css,laravel,postgres,kali,git&theme=light" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3" />
-
-## 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omartthr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omartthr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=omartthr&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omartthr&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
 
 ## 🐍 Katkı Yılanı
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/omartthr/omartthr/output/github-contribution-grid-snake.svg" />
 </p>
-
-> ℹ️ Bu animasyon otomatik oluşuyor — kurulumu aşağıda anlatıyorum.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=120&section=footer" />
