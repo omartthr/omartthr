@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=omartthr&label=Profil+Ziyaret%C3%A7isi&color=2E9EF7&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">📍 Ankara, Türkiye &nbsp;|&nbsp; 🎓 Ankara Üniversitesi — Yazılım Mühendisliği (Beklenen mezuniyet: 2027)</p>
+<p align="center">📍 Ankara, Türkiye &nbsp;|&nbsp; 🎓 Ankara University — Software Engineering </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3" />
 
-## 🛠️ Teknolojiler
+## 🛠️ Technology's 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,php,dart,react,flutter,vuejs,nextjs,html,css,laravel,postgres,kali,git&theme=light" />
@@ -26,7 +26,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3" />
 
-## 🐍 Katkı Yılanı
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/omartthr/omartthr/output/github-contribution-grid-snake.svg" />
