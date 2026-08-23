@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Omar%20Taher&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+backends+with+Laravel+%2B+PostgreSQL;Writing+mobile+apps+with+Flutter+%2F+React+Native;Crafting+modern+UIs+with+Vue.js+%2B+Next.js; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+backends+with+Laravel+%2B+PostgreSQL;Writing+mobile+apps+with+Flutter+%2F+React+Native;Crafting+modern+UIs+with+Vue.js+%2B+Next.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
